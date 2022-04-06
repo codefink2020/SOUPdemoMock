@@ -1,0 +1,8 @@
+.toolbar {
+  min-height: 50px;
+  background-color: rgb(60, 85, 124);
+  color: #ffffff;
+}
+.spacer {
+  flex: 1 1 auto;
+}
